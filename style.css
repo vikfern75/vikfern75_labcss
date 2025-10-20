@@ -8,7 +8,7 @@
 /* ===== BODY ===== */
 body {
   font-family: Arial, Helvetica, sans-serif;
-  background-image: url("../black.jpg");
+  background-image: url("../Images/black.jpg");
   background-size: cover;
   color: #000;
 }
@@ -73,7 +73,7 @@ main {
   display: flex;
   justify-content: space-between;
   padding: 20px;
-  background-image: url("../repeating.png");
+  background-image: url("../Images/repeating.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
