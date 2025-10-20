@@ -13,6 +13,13 @@ body {
   color: #000;
 }
 
+body {
+  background-color: black;
+  background-image: url('images/repeating.png'); /* if style.css is in root */
+  background-repeat: repeat;
+}
+
+
 /* ===== HEADER ===== */
 header {
   display: flex;
