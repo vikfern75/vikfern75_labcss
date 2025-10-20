@@ -73,7 +73,7 @@ main {
   display: flex;
   justify-content: space-between;
   padding: 20px;
-  background-image: url("../Images/diagonal_pattern.png");
+  background-image: url("../Images/repeating.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
